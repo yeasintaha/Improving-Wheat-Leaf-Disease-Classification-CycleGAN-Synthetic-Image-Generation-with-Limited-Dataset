@@ -41,7 +41,11 @@ git clone https://github.com/yeasintaha/Improving-Wheat-Leaf-Disease-Classificat
 
 2. Follow the instructions in the documentation to train the CycleGAN model and generate synthetic images.
 
+<br/> <br/>
+
 ## Citation 
+
+If you find this work useful, kindly cite our paper. 
 
 ```bash
 @ARTICLE{10521470,
@@ -53,8 +57,8 @@ git clone https://github.com/yeasintaha/Improving-Wheat-Leaf-Disease-Classificat
   number={},
   pages={1-1},
   keywords={Convolutional neural networks;Generative adversarial networks;Biological system modeling;Crops;Training;Food security;Plant diseases;Classification algorithms;Wheat leaf disease;Deep learning;Augmentation techniques;CycleGAN;SMOTE;SMOTETomek;ADASYN;Disease diagnosis;Accuracy;Agricultural automation},
-  doi={10.1109/ACCESS.2024.3397570}}
-
+  doi={10.1109/ACCESS.2024.3397570}
+}
 
 ```
 
