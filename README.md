@@ -1,4 +1,4 @@
-# Wheat Leaf Disease Classification Enhancement with CycleGAN Synthetic Image Generation
+# Wheat Leaf Disease Classification Enhancement with CycleGAN Synthetic Image Generation from Limited Dataset
 
 ## Overview
 
