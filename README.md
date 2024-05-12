@@ -45,7 +45,7 @@ git clone https://github.com/yeasintaha/Improving-Wheat-Leaf-Disease-Classificat
 
 ## Citation 
 
-If you find this work useful, kindly cite our paper. 
+If you find this work useful, kindly cite these papers. 
 
 ```bash
 @ARTICLE{10521470,
@@ -58,6 +58,20 @@ If you find this work useful, kindly cite our paper.
   pages={1-1},
   keywords={Convolutional neural networks;Generative adversarial networks;Biological system modeling;Crops;Training;Food security;Plant diseases;Classification algorithms;Wheat leaf disease;Deep learning;Augmentation techniques;CycleGAN;SMOTE;SMOTETomek;ADASYN;Disease diagnosis;Accuracy;Agricultural automation},
   doi={10.1109/ACCESS.2024.3397570}
+}
+
+```
+
+and 
+
+```bash
+@inproceedings{ramadan2023wheat,
+  title={Wheat Leaf Disease Synthetic Image Generation from Limited Dataset Using GAN},
+  author={Ramadan, Syed Taha Yeasin and Sakib, Tanjim and Haque, Md Mizba Ul and Sharmin, Nusrat and Rahman, Md Mahbubur},
+  booktitle={International Conference on Human-Centric Smart Computing},
+  pages={501--511},
+  year={2023},
+  organization={Springer}
 }
 
 ```
